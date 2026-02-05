@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ata Yılmaz!
 
-<!--
-**atayilmaz-dev/atayilmaz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I am a 3rd-year **Computer Engineering** student at Beykent University. I view the world of software not just as lines of code, but as an end-to-end engineered architecture.
 
-Here are some ideas to get you started:
+### 💻 What I’m Focused On
+* **Backend Development:** Building robust and scalable infrastructures using C# and SQL.
+* **Artificial Intelligence:** Focusing on optimizing software processes with AI solutions and designing intelligent systems.
+* **Continuous Learning:** Developing hands-on software discipline through project-based learning at École 42.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** C#, SQL, Python
+* **Areas of Interest:** Backend Architecture, AI Integration, Database Management, Automation
+
+### 📫 Connect with Me
+* [LinkedIn Profile](https://www.linkedin.com/in/ata-y%C4%B1lmaz-7b991528a/)
+* 📧 Email: atayilmazdigital@gmail.com
+
