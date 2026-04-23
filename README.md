@@ -6,7 +6,7 @@ I am a 3rd-year **Computer Engineering** student at Beykent University. I view t
 ### 💻 What I’m Focused On
 * **Backend Development:** Building robust and scalable infrastructures using C# and SQL.
 * **Artificial Intelligence:** Focusing on optimizing software processes with AI solutions and designing intelligent systems.
-* **Continuous Learning:** Developing hands-on software discipline through project-based learning at École 42.
+* **Continuous Learning:** Building software discipline through project-based learning and structured daily practice.
 
 ### 🛠 Tech Stack
 * **Languages:** C#, SQL, Python
